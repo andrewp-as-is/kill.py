@@ -1,21 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/kill.svg?longCache=True)](https://pypi.org/project/kill/)
-[![](https://img.shields.io/pypi/v/kill.svg?maxAge=3600)](https://pypi.org/project/kill/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/kill.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/kill.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/kill.svg?maxAge=3600)](https://pypi.org/project/kill/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/kill.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/kill.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install kill
 ```
-
-#### Functions
-function|`__doc__`
--|-
-`kill.kill(pid)` |kill process by pid and return stderr
 
 #### Examples
 ```python
@@ -33,5 +28,5 @@ kill: (1) - Operation not permitted
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
